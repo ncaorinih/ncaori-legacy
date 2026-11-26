@@ -28,7 +28,7 @@ All current and future work is under `ncaorinih`. The `ncaori` / `manncaori` han
 
 ## Ncaori Mail+ (`ncaori.my.id`)
 
-**What it was:** A free temporary email service built to generate disposable addresses for automated testing and registration workflows.
+**What it was:** A free temporary email service (`temp-mail.ncaori.my.id`) built to generate disposable addresses for automated testing and registration workflows.
 
 **Current status:**
 
