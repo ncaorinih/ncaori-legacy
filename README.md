@@ -19,10 +19,10 @@ If you found `ncaori` referenced in a GitHub repository, a forum post, or a disp
 | Handle | Status | Notes |
 |---|---|---|
 | `ncaorinih` | **Active — primary** | Current handle for all security research, development, and serious work. |
-| `ncaori` | Legacy | Used in earlier projects. No longer the primary identity. |
-| `manncaori` | Legacy | Same person, older variant. Used on Telegram and Threads. |
+| `ncaori` | **Active** | Still in use. Primary handle for the temp-mail service and Threads/Telegram presence. |
+| `manncaori` | **Active** | Same person, variant handle. Used on Telegram and Threads. |
 
-All current and future work is under `ncaorinih`. The `ncaori` / `manncaori` handles are kept only for historical reference.
+All current and future work is under `ncaorinih`. The `ncaori` / `manncaori` handles remain active for the temp-mail service and social media presence.
 
 ---
 
