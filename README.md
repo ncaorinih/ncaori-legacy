@@ -1,16 +1,16 @@
-# Ncaori — Legacy Handle & Deprecated Temp-Mail Service
+# Ncaori (ncaorinih) — Legacy Handle & Deprecated Temp-Mail Service
 
-> **Current primary handle:** [ncaorinih](https://github.com/ncaorinih)
-> **Status of `ncaori` / `manncaori`:** Legacy. No longer maintained.
-> **Status of Ncaori Mail+ (`ncaori.my.id`):** Deprecated. Still operational but NOT under active development.
+> **Who I am:** I am `ncaori` / `manncaori` across the internet. My current GitHub handle is [ncaorinih](https://github.com/ncaorinih).
+> **Status of `ncaori` / `manncaori`:** Active. Still in use for the temp-mail service, Telegram, and Threads.
+> **Status of Ncaori Mail+ (`temp-mail.ncaori.my.id`):** Deprecated. Still operational but NOT under active development.
 
 ---
 
-## What is this?
+## Who I am
 
-This repository exists to provide **context** for the `ncaori` / `manncaori` username and the **Ncaori Mail+** temporary email service that appears across the internet.
+I am **NCAORI** — `ncaori` on Telegram, Threads, and the temp-mail service. `manncaori` is the same person, older variant. On GitHub I use [ncaorinih](https://github.com/ncaorinih) to keep my code work separate from the temp-mail identity.
 
-If you found `ncaori` referenced in a GitHub repository, a forum post, or a disposable-email blocklist, this page explains what it is and where things stand.
+If you found `ncaori` or `manncaori` referenced somewhere and you are looking for the person behind it — this is me. This repo is my way of putting context on the internet so the story is told from my side.
 
 ---
 
